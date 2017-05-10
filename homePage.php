@@ -179,7 +179,7 @@
 <footer>
     <div class="container" style="margin-top: 5%;">
         <div class="panel panel-default">
-            <div class="panel-body">Created By Md. Abdur Rouf And Abu Zafar Al Zahid</div>
+            <div class="panel-body">Created By Md. Abdur Rouf</div>
         </div>
     </div>
 </footer>
