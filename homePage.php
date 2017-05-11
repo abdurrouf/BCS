@@ -22,8 +22,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <button class="btn btn-info navbar-btn btn-lg btn-responsive"
-                        href="#"><span style="color: black">বিসিএস প্রস্তুতি</span></button>
+                <button class="btn btn-info navbar-btn btn-lg btn-responsive" href="#">
+                    <span style="color: black">বিসিএস প্রস্তুতি</span>
+                </button>
             </div>
 
             <div class="collapse navbar-collapse" id="myNavbar"
@@ -61,7 +62,8 @@
                 </li>
 
                 <li>
-                    <button class="btn btn-primary navbar-btn btn-lg btn-responsive" style="margin-left: 10px; margin-right: 5px;"
+                    <button class="btn btn-primary navbar-btn btn-lg btn-responsive"
+                            style="margin-left: 10px; margin-right: 5px;"
                             href="#"><span
                                 class="glyphicon glyphicon-log-in"></span>
                         Login
@@ -179,7 +181,16 @@
 <footer>
     <div class="container" style="margin-top: 5%;">
         <div class="panel panel-default">
-            <div class="panel-body">Created By Md. Abdur Rouf</div>
+            <div class="panel-header">
+
+                &copy; 2017 Md Abdur Rouf (University Of Dhaka)
+
+            </div>
+            <div class="panel-body">
+                <button class="btn btn-info navbar-btn btn-lg btn-responsive" href="#">
+                    <span style="color: black">বিসিএস প্রস্তুতি</span>
+                </button>
+            </div>
         </div>
     </div>
 </footer>
