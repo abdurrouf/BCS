@@ -9,9 +9,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body style="background-color: #301e38">
-
 <!---Header starts here-->
-
 <header>
     <div class="container">
         <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: slategrey;">
@@ -27,55 +25,54 @@
                 </button>
             </div>
 
-            <div class="collapse navbar-collapse" id="myNavbar"
-            ">
-            <ul class="nav navbar-nav navbar-right ">
-                <li  style="margin-right:5px;">
-                    <button class="btn btn-success btn-lg btn-responsive navbar-btn btn-block" href="#">Online Test</button>
-                </li>
-                <li class="dropdown"  style="margin-right:5px;">
-                    <button class="dropdown-toggle btn btn-danger navbar-btn btn-lg btn-responsive btn-block"
-                            data-toggle="dropdown" href="#">
-                        Subjects <span
-                                class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Bangla</a></li>
-                        <li><a href="#">English</a></li>
-                        <li><a href="#">Bangladesh</a></li>
-                    </ul>
-                </li>
-                <li  style="margin-right:5px;">
-                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block" href="#">Cicular
-                    </button>
-                </li>
-                <li  style="margin-right:5px;">
-                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block"  href="#">
-                        Notice
-                    </button>
-                </li>
-                <li  style="margin-right:5px;">
-                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block" href="#">
-                        Suggestion
-                    </button>
-                </li>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right ">
+                    <li  style="margin-right:5px;">
+                        <button class="btn btn-success btn-lg btn-responsive navbar-btn btn-block" href="#">Online Test</button>
+                    </li>
+                    <li class="dropdown"  style="margin-right:5px;">
+                        <button class="dropdown-toggle btn btn-danger navbar-btn btn-lg btn-responsive btn-block"
+                                data-toggle="dropdown" href="#">
+                            Subjects <span
+                                    class="caret"></span></button>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Bangla</a></li>
+                            <li><a href="#">English</a></li>
+                            <li><a href="#">Bangladesh</a></li>
+                        </ul>
+                    </li>
+                    <li  style="margin-right:5px;">
+                        <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block" href="#">Cicular
+                        </button>
+                    </li>
+                    <li  style="margin-right:5px;">
+                        <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block"  href="#">
+                            Notice
+                        </button>
+                    </li>
+                    <li  style="margin-right:5px;">
+                        <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block" href="#">
+                            Suggestion
+                        </button>
+                    </li>
 
-                <li  style="margin-right:5px;">
-                    <button class="btn btn-primary navbar-btn btn-lg btn-responsive btn-block" href="#"><span
-                                class="glyphicon glyphicon-log-in"></span>
-                        Login
-                    </button>
-                </li>
+                    <li  style="margin-right:5px;">
+                        <button class="btn btn-primary navbar-btn btn-lg btn-responsive btn-block" href="#"><span
+                                    class="glyphicon glyphicon-log-in"></span>
+                            Login
+                        </button>
+                    </li>
 
-            </ul>
-    </div>
-
-
-    </nav>
+                </ul>
+            </div>
+        </nav>
     </div>
 </header>
 
 
 <!---Header ends here-->
+
+
 
 <!--Here slider starts-->
 
@@ -176,7 +173,7 @@
 
 <footer>
     <div class="container" style="margin-top: 5%;">
-        <div class="panel panel-default">
+        <iv class="panel panel-default">
             <div class="panel-header">
 
                 &copy; 2017 Md Abdur Rouf (University Of Dhaka)
@@ -187,7 +184,7 @@
                     <span style="color: black">বিসিএস প্রস্তুতি</span>
                 </button>
             </div>
-        </div>
+        </iv>
     </div>
 </footer>
 
