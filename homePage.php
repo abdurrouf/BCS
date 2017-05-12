@@ -22,7 +22,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <button class="btn btn-info navbar-btn btn-lg btn-responsive" href="#">
+                <button class="btn btn-info btn-lg  btn-responsive navbar-btn" href="#">
                     <span style="color: black">বিসিএস প্রস্তুতি</span>
                 </button>
             </div>
@@ -30,13 +30,12 @@
             <div class="collapse navbar-collapse" id="myNavbar"
             ">
             <ul class="nav navbar-nav navbar-right ">
-                <li style="margin-right:10px;">
-                    <button class="btn btn-success navbar-btn btn-lg btn-responsive" href="#">Online Test</button>
+                <li  style="margin-right:5px;">
+                    <button class="btn btn-success btn-lg btn-responsive navbar-btn btn-block" href="#">Online Test</button>
                 </li>
-                <li class="dropdown">
-                    <button class="dropdown-toggle btn btn-danger navbar-btn btn-lg btn-responsive"
-                            data-toggle="dropdown"
-                            style="margin-right:10px;" href="#">
+                <li class="dropdown"  style="margin-right:5px;">
+                    <button class="dropdown-toggle btn btn-danger navbar-btn btn-lg btn-responsive btn-block"
+                            data-toggle="dropdown" href="#">
                         Subjects <span
                                 class="caret"></span></button>
                     <ul class="dropdown-menu">
@@ -45,34 +44,31 @@
                         <li><a href="#">Bangladesh</a></li>
                     </ul>
                 </li>
-                <li>
-                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive " style="margin-right:5px;"
-                            href="#">Cicular
+                <li  style="margin-right:5px;">
+                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block" href="#">Cicular
                     </button>
                 </li>
-                <li>
-                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive" style="margin-right:5px;" href="#">
+                <li  style="margin-right:5px;">
+                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block"  href="#">
                         Notice
                     </button>
                 </li>
-                <li>
-                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive" style="margin-right:5px;" href="#">
+                <li  style="margin-right:5px;">
+                    <button class="btn btn-warning navbar-btn btn-lg btn-responsive btn-block" href="#">
                         Suggestion
                     </button>
                 </li>
 
-                <li>
-                    <button class="btn btn-primary navbar-btn btn-lg btn-responsive"
-                            style="margin-left: 10px; margin-right: 5px;"
-                            href="#"><span
+                <li  style="margin-right:5px;">
+                    <button class="btn btn-primary navbar-btn btn-lg btn-responsive btn-block" href="#"><span
                                 class="glyphicon glyphicon-log-in"></span>
                         Login
                     </button>
                 </li>
 
             </ul>
-
     </div>
+
 
     </nav>
     </div>
@@ -83,7 +79,7 @@
 
 <!--Here slider starts-->
 
-<div class="container" style="width: 70%;">
+<div class="container">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
